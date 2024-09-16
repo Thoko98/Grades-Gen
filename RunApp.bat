@@ -1,0 +1,1 @@
+python C:\Users\Thoko\Desktop\toDeploy\generate.py
